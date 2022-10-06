@@ -4,7 +4,7 @@
 
 - 🔭 Exploring Blockchain technologies, developing SPA, DAPP and Web3 Apps with ReactJS,Tailwind Css and Smart Contracts.
 
-- 🌱 Making Smart Contracts for Ethereum,BSC,Tron,Avax,Polygon and All EVM Supported Blockchains.
+- 🌱 Making Smart Contracts for Ethereum,BSC,Tron,Avax,Polygon and All other EVM Supported Blockchains.
 
 - 🔭 Learning and Building DEFI's like Dex, NFT's, Flash Loans for All EVM Supported Blockchains like Ethereum, BSC, Tron etc.,
 
@@ -12,9 +12,25 @@
 
 - 🔭 Building Web3 Social Media Platforms with Smart Contracts like DMessage, DCloud, DTweet, etc.,
 
-- 🌱 Passionate on Reactjs Frontend Framework, Tailwind Css Framework, Solidity Pragramming Language, DEFI, NFT's etc.,
+- 🌱 Making Metaverse Gaming Projects with Godot Game Engine.,
+
+- 🔭 Passionate on Reactjs Frontend Framework, Tailwind Css Framework, Solidity Pragramming Language, DEFI, NFT's etc.,
 
 - 👀 I'm Interested to work for Full/Part time jobs with Blockchain and Web3 Apps in Freelancing and Remote jobs.
+
+## 💻 My Projects
+
+1. **Web3 ICO App** - ICO App is a Crypto ICO Web3 app that allows user to buy newly created STKN Token (ERC20) in a ICO Website by virtue of Smart Contract. ➡ [Live Website](https://cryptoicoapp.netlify.app/)
+
+2. **Web3 Simple Stake App** - Simple Stake App is a Crypto Staking Web3 app that allows users to stake and unstake STKN Token (ERC20) bought from ICO Website. ➡ [Live Website](https://simplestakeapp.netlify.app/)
+
+3. **DMessage** - DMessage is a Web3 app that allows us to send messages in a decentralized manner by virtue of blockchain technology. ➡ [Live Website](https://dmessage.netlify.app/)
+
+4. **Crypto Live Price App** - Crypto Live Price App is a app to check live crypto currency prices. ➡ [Live Website](https://cryptolivepriceapp.netlify.app/)
+
+5. **Advice App** - Advice App is a app to get random advices on the go. ➡ [Live Website](https://kaamil-ahamadh.github.io/advice-app/)
+
+6. **Shooter Game** - Shooter Game is a simple shooting game.
 
 ## 📫 Reach Me
 
@@ -25,7 +41,7 @@
 
 ## Languages
 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23CC342D.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## Frameworks and Libraries
 
