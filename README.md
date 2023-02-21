@@ -2,21 +2,29 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 Exploring Blockchain technologies, developing SPA, DAPP and Web3 Apps with ReactJS,Tailwind Css and Smart Contracts.
+- 🔭 I'm a Self Taught NodeJS Backend/ReactJS/Web3 Programmer.
 
-- 🌱 Making Smart Contracts for Ethereum,BSC,Tron,Avax,Polygon and All other EVM Supported Blockchains.
+- 🌱 I'm very Passionate on learning New Technologies Everyday.
 
-- 🔭 Learning and Building DEFI's like Dex, NFT's, Flash Loans for All EVM Supported Blockchains like Ethereum, BSC, Tron etc.,
+- 🔭 Currently Focussing on Backend with NodeJS and Express Framework.
 
-- 🌱 Making Hybrid Smart Contracts with Decentralized Oracle like Chainlink for Data feeds, Randomness, Keepers for events for All EVM Supported Blockchains like Ethereum, BSC, Tron etc.,
+- 🌱 Having Knowledge On NodeJS RESTful Server/GraphQL API using ExpressJS with MVC Pattern using SQL and No SQL Databases.
 
-- 🔭 Building Web3 Social Media Platforms with Smart Contracts like DMessage, DCloud, DTweet, etc.,
+- 👀 Currently Seeking for NodeJS with Express Backend Internship/Junior Remote Jobs or Freelancing in Partime/Fulltime.
 
-- 🌱 Making Metaverse Gaming Projects with Godot Game Engine.,
+- 🌱 Exploring Blockchain technologies, developing SPA, DAPP and Web3 Apps with ReactJS,Tailwind Css and Smart Contracts.
 
-- 🔭 Passionate on Reactjs Frontend Framework, Tailwind Css Framework, Solidity Pragramming Language, DEFI, NFT's etc.,
+- 🔭 Making Smart Contracts for Ethereum,BSC,Tron,Avax,Polygon and All other EVM Supported Blockchains.
 
-- 👀 I'm Interested to work for Full/Part time jobs with Blockchain and Web3 Apps in Freelancing and Remote jobs.
+- 🌱 Learning and Building DEFI's like Dex, NFT's, Flash Loans for All EVM Supported Blockchains like Ethereum, BSC, Tron etc.,
+
+- 🔭 Making Hybrid Smart Contracts with Decentralized Oracle like Chainlink for Data feeds, Randomness, Keepers for events for All EVM Supported Blockchains like Ethereum, BSC, Tron etc.,
+
+- 🌱 Building Web3 Social Media Platforms with Smart Contracts like DMessage, DCloud, DTweet, etc.,
+
+- 🔭 Making Metaverse Gaming Projects with Godot Game Engine.,
+
+- 🌱 Passionate on Reactjs Frontend Framework, Tailwind Css Framework, Solidity Pragramming Language, DEFI, NFT's etc.,
 
 ## 💻 My Projects
 
