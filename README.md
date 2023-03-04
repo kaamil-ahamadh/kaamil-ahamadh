@@ -8,7 +8,7 @@
 
 - 🔭 Currently Focussing on Backend with NodeJS and Express Framework.
 
-- 🌱 Having Knowledge On NodeJS RESTful Server/GraphQL API using ExpressJS with MVC Pattern using SQL and No SQL Databases.
+- 🌱 Having Knowledge On NodeJS RESTful Server/GraphQL API using ExpressJS with MVC Pattern in SQL and No SQL Databases.
 
 - 👀 Currently Seeking for NodeJS with Express Backend Internship/Junior Remote Jobs or Freelancing in Partime/Fulltime.
 
