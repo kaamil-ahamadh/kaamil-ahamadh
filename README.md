@@ -4,8 +4,8 @@
 
 ### 💻 &nbsp;My Portfolio Website
 
-https://kaamilahamadh.online
-
+https://kaamil-ahamadh.netlify.app/
+  
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I'm a Self Taught NodeJS Backend/ReactJS/Web3 Programmer.
@@ -34,15 +34,15 @@ https://kaamilahamadh.online
 
 ## 💻 My Projects
 
-1. **Web3 ICO App** - ICO App is a Crypto ICO Web3 app that allows user to buy newly created STKN Token (ERC20) in a ICO Website by virtue of Smart Contract. ➡ [Live Website](https://cryptoicoapp.kaamilahamadh.online/)
+1. **Web3 ICO App** - ICO App is a Crypto ICO Web3 app that allows user to buy newly created STKN Token (ERC20) in a ICO Website by virtue of Smart Contract. ➡ [Live Website](https://cryptoicoapp.netlify.app/)
 
-2. **Web3 Simple Stake App** - Simple Stake App is a Crypto Staking Web3 app that allows users to stake and unstake STKN Token (ERC20) bought from ICO Website. ➡ [Live Website](https://simplestakeapp.kaamilahamadh.online/)
+2. **Web3 Simple Stake App** - Simple Stake App is a Crypto Staking Web3 app that allows users to stake and unstake STKN Token (ERC20) bought from ICO Website. ➡ [Live Website](https://simplestakeapp.netlify.app/)
 
-3. **Play Videos Hub** - Play Videos Hub is a Hub for playing youtube videos. ➡ [Live Website](https://playvideoshub.kaamilahamadh.online/)
+3. **Play Videos Hub** - Play Videos Hub is a Hub for playing youtube videos. ➡ [Live Website](https://playvideoshub.netlify.app/)
 
-4. **DMessage** - DMessage is a Web3 app that allows us to send messages in a decentralized manner by virtue of blockchain technology. ➡ [Live Website](https://dmessage.kaamilahamadh.online/)
+4. **DMessage** - DMessage is a Web3 app that allows us to send messages in a decentralized manner by virtue of blockchain technology. ➡ [Live Website](https://dmessage.netlify.app/)
 
-5. **Crypto Live Price App** - Crypto Live Price App is a app to check live crypto currency prices. ➡ [Live Website](https://cryptolivepriceapp.kaamilahamadh.online/)
+5. **Crypto Live Price App** - Crypto Live Price App is a app to check live crypto currency prices. ➡ [Live Website](https://cryptolivepriceapp.netlify.app/)
 
 6. **Advice App** - Advice App is a app to get random advices on the go. ➡ [Live Website](https://kaamil-ahamadh.github.io/advice-app/)
 
