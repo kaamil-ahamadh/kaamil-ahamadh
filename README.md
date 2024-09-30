@@ -50,7 +50,7 @@ https://kaamil-ahamadh.netlify.app/
 
 ## 📫 Reach Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@kaamilahamadh.online)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaamilahamadh6@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaamil-ahamadh)
 
 # 💻 Tech Stack
